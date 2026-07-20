@@ -2,7 +2,7 @@
 ---
 
 ### 🤝 Connect with us:
- <a href="https://www.linkedin.com/in/saurav1x/" target="_blank" style="display: flex; align-items: center; text-decoration: none; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+ <a href="https://www.linkedin.com/in/saurav1x/" target="_blank" style="display: flex; align-items: center; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
 🌐<span>Linkedin</span>
 </a>
 - 👋 Hi, I’m @saurav-1x
