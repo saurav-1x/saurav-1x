@@ -4,7 +4,7 @@
 ### 🤝 Connect with us:
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src=["[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.icons8.com/?size=100&id=8808&format=png)](https://www.linkedin.com/in/saurav1x/)" alt="LinkedIn" />
+    <img src=["[[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.icons8.com/?size=100&id=8808&format=png)]](https://www.bing.com/th/id/OIP.2o3L6rvnX9cA9Ss1b-PVBQHaHa?w=178&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2)(https://www.linkedin.com/in/saurav1x/)" alt="LinkedIn" />
   </a>
 </p>
 - 👋 Hi, I’m @saurav-1x
