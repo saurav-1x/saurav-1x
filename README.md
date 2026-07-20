@@ -1,15 +1,10 @@
-### 📊 My GitHub Analytics:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurav-1x&show_icons=true&theme=radical" alt="Saurav's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-1x&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
-### 🤝 Connect with me:
+### 🤝 Connect with us:
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src=["https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/saurav1x/)" alt="LinkedIn" />
   </a>
 </p>
 - 👋 Hi, I’m @saurav-1x
