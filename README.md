@@ -88,42 +88,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saurav-1x&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-1x&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-1x&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saurav-1x&theme=algolia&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 👀 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=saurav-1x&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
 
 ### ⭐ "Code • Learn • Build • Repeat"
