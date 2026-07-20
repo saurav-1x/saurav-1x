@@ -52,17 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saurav-1x&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-1x&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-1x&theme=tokyonight"/>
-</p>
-
----
 
 <h3 align="center">⭐ Code • Learn • Build • Repeat ⭐</h3>
