@@ -1,19 +1,129 @@
+<h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
+<h3 align="center">Full Stack Developer | MCA Student | Java & Web Development Enthusiast</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saurav1x/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Saurav%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sauravkumar44041@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/saurav-1x">
+    <img src="https://img.shields.io/badge/GitHub-saurav--1x-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-### 🤝 Connect with us:
- <a href="https://www.linkedin.com/in/saurav1x/" target="_blank" style="display: flex; align-items: center; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-🌐<span>Linkedin</span>
-</a>
-- 👋 Hi, I’m @saurav-1x
-- 👀 I’m interested in web development
-- 🌱 I’m currently learn to master in javascript
-- 💞️ I’m looking to collaborate on javascript projects
-- 📫 How to reach me : like on linkedin @saurav1x
-- 😄 Pronouns: saurav
-- ⚡ Fun fact: ... nothing more
+## 👨‍💻 About Me
 
-<!---
-saurav-1x/saurav-1x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MCA Student at **NIET, Greater Noida**
+
+💻 Passionate about **Full Stack Web Development**
+
+🌱 Currently learning **JavaScript, React.js, Node.js & MongoDB**
+
+🚀 Interested in building responsive and scalable web applications
+
+🤝 Open to collaborating on **JavaScript, React and Full Stack projects**
+
+📫 Reach me at **sauravkumar44041@gmail.com**
+
+💼 LinkedIn: **linkedin.com/in/saurav1x**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,c,cpp" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🌐 **Portfolio Website**
+
+🎬 **Netflix Clone**
+
+🏠 **Smart Home Website**
+
+🎮 **Guess Number Game**
+
+📝 **Student Registration Form**
+
+👨‍💼 **Employee Management System (Java + JDBC)**
+
+---
+
+## 📜 Certifications
+
+🏆 Responsive Web Design — freeCodeCamp
+
+🏆 Introduction to Python — Infosys Springboard
+
+🏆 Google Skill Boost Certifications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saurav-1x&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-1x&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-1x&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saurav-1x&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=saurav-1x&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+### ⭐ "Code • Learn • Build • Repeat"
