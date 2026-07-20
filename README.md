@@ -15,75 +15,43 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🎓 MCA Student at **NIET, Greater Noida**
 - 💻 Passionate about **Full Stack Web Development**
-- 🌱 Currently learning **React.js, Node.js & MongoDB**
+- 🌱 Learning **React.js, Node.js & MongoDB**
 - 🤝 Open to **Web Development & Java Projects**
-- 📫 Reach me at **sauravkumar44041@gmail.com**
+- 📫 **sauravkumar44041@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,java,c,cpp,git,github,vscode,netlify" height="36"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,java,c,cpp,git,github,vscode,netlify" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-🌐 **Portfolio Website**
-
-🎬 **Netflix Clone**
-
-🏠 **Smart Home Website**
-
-🎮 **Guess Number Game**
-
-📝 **Student Registration Form**
-
-👨‍💼 **Employee Management System (Java + JDBC)**
+- 🌐 Portfolio Website
+- 🎬 Netflix Clone
+- 🏠 Smart Home Website
+- 🎮 Guess Number Game
+- 📝 Student Registration Form
+- 👨‍💼 Employee Management System
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 
 - 🏆 Responsive Web Design — freeCodeCamp
 - 🏆 Introduction to Python — Infosys Springboard
-- 🏆 Google Skill Boost Certifications
+- 🏆 Google Skill Boost
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=saurav-1x&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-1x&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-1x&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurav-1x&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurav-1x&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 <h3 align="center">⭐ Code • Learn • Build • Repeat ⭐</h3>
