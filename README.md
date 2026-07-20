@@ -29,7 +29,7 @@
 
 📫 Reach me at **sauravkumar44041@gmail.com**
 
-💼 LinkedIn: **linkedin.com/in/saurav1x**
+💼 LinkedIn: **http://linkedin.com/in/saurav1x**
 
 ---
 
